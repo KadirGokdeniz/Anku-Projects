@@ -25,3 +25,5 @@ Please refer to the respective project directories for more detailed information
 - [KadirGökdeniz](https://github.com/KadirGokdeniz/Anku-Projects)
 
 Feel free to explore the projects and make any contributions if you'd like. Enjoy!
+##Contact
+- For any inquiries or questions, please feel free to contact me at kadirqokdeniz@hotmail.com.
